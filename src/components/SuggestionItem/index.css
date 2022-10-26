@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.search-item {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 20px;
+  max-height: 40px;
+}
+
+.search-text {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.arrow-img {
+  width: 20px;
+  height: 20px;
+}
